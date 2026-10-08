@@ -27,8 +27,3 @@ This project simulates basic ATM operations such as PIN authentication, balance 
 - Loops
 - Conditional Statements
 - Exception Handling
-
-## Default Login
-
-```text
-PIN: 1234
