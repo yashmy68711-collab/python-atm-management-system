@@ -17,13 +17,3 @@ This project simulates basic ATM operations such as PIN authentication, balance 
 - Input Validation
 - Transaction History
 
-## Technologies Used
-
-- Python
-- Object-Oriented Programming (OOP)
-- Lists
-- Classes and Objects
-- Methods
-- Loops
-- Conditional Statements
-- Exception Handling
